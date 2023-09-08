@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@700&family=Roboto+Mono&family=Ubuntu&display=swap');
+
+
+
+
+table,
+th,
+td {
+  border: 1px solid rgb(34, 105, 197);
+border-radius: 10px;
+  
+}
+
+table {
+  background-color: aqua;
+}
+
+th,td {
+  background-color: blue;
+}
+
+
+body {
+  /* font-family: 'Phudu', cursive; */
+  font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Ubuntu', sans-serif; */
+}
